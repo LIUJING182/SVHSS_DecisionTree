@@ -2,7 +2,7 @@
 In this project, we apply our SVHSS scheme to privacy-preserving machine learning.
 
 ## IDE
-In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project mor conveniently.
+In the coding, we chose CLion as IDE. Therefore, if you use CLion as IDE it will help you deploy this project more conveniently.
 
 ## Dependencies
 ### Install m4
